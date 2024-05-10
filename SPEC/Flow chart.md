@@ -1,3 +1,5 @@
+##Flow Chart
+
 ```mermaid
 graph TD;
 Start[Start] --> LandingPage[Landing Page/Game Introduction];
