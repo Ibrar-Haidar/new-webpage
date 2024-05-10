@@ -1,0 +1,46 @@
+## Gameplay Flow
+- Character Creation
+  - Players create their wizard character by choosing their appearance, name, and customizing colors.
+  - Introduction to the nomadic lifestyle of Wizard Amigos and their quest in the magical realm. (all about wizard amigos could be covered out here)
+- Main Interface/Game Hub
+  - The main interface serves as the central hub for players to navigate the game.(operating system VR desktop or hologram or XR style such apple vision pro) or it could be like city in holographic style.
+  - Access to various game features and activities, such as studying, questing/exploring, bonding, buying stuff, and crafting.
+- Interactive Tutorial
+  - New players are guided through an interactive tutorial to familiarize themselves with game mechanics and controls.
+  - Introduction to basic actions such as opening the omni bag, using the realm ring, and accessing the time lens/orb.
+- Exploration and Questing
+  - Players embark on quests to explore new realms and dimensions within the magical realm of Amigonia.
+  - Quests involve interacting with NPCs, solving codes, and overcoming challenges to unlock new abilities, getting rewards and progress in the game.
+- Studying and Skill Development
+  - Players have the opportunity to study and learn new magical spells and skills.
+  - Access to magical libraries (if we have any prerecorded courses), schools(live solving problems like leetcode), or special places where players can acquire knowledge and enhance their abilities.
+- Gear Acquisition and Upgrades
+  - Players visit the wizard gear stall to acquire essential items such as the omni bag, realm ring, and other magical gear.
+  - Opportunities to upgrade gear and acquire new items through quests and achievements.
+- Socialization and Events
+  - Players interact with other Wizard Amigos through virtual portals or magical meeting spaces. (meetup part will be covered here)
+  - Participation in events such as code camps, meetups, and workshops to learn, collaborate, and socialize with fellow wizards.
+- Coding and Spellcasting
+  - Integration of coding activities into the game, where players can customize code to cast spells and perform magical actions in return they can get some kind of magic coins or anything similar to it in wizard world.
+  - Use of magic items such as the magic book or wand to access a real code editor and experiment with coding spells.
+- Progression and Achievement
+  - Players earn experience points (XP) by completing quests, learning new skills, and participating in events.
+  - Leveling up unlocks new abilities, gear upgrades, and access to advanced quests and challenges.
+  - Also can introduce ranking system where on getting certain number of XP makes you rank higher with higher you get more rewards and recognitions.(we can discuss on this further)
+- Community Building and Collaboration
+  - Encouragement of collaboration and community building among players through activities such as teaching, mentoring, and volunteering.
+  - Participation in community events and activities aimed at fostering connections, building friendships, and strengthening bonds within the Wizard Amigos community.
+- Magical World Events
+  - Regularly scheduled in-game events that reflect real-life events or special occasions within the magical realm.
+  - Players can participate in festivals, celebrations, and special quests that offer unique rewards and challenges. (timeline could be covered out here)
+- In-Game Economy
+  - Introduction of an in-game economy where players can earn currency or resources through quests, activities, and contributions to the community. (As mentioned earlier it could be anything magic coin or anything else we could discuss on it)
+- Continuous Updates and Expansion
+  - Regular updates and expansions to introduce new content, features, and challenges to keep the game fresh and engaging.
+  - Community feedback and suggestions are taken into account to shape the direction of future updates and improvements.
+- Endgame Content and Mastery
+  - As players progress through the game, they unlock access to endgame content and challenges that test their mastery of magical skills and abilities. (it gets harder with each steps)
+  - Ultimate quests and achievements await those who reach the highest levels of wizardry, offering prestigious rewards and recognition within the community.
+- Player-driven Storytelling and Creativity
+  - Emphasis on player-driven storytelling and creativity, allowing players to shape their own narratives and adventures within the magical realm. (they can choose what they want to do.)
+  - Tools and features for players to create and share their own quests, stories, and experiences with the community.
