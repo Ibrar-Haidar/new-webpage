@@ -73,5 +73,59 @@ Optionally, you can use your own picture as an avatar for further immersion into
 **Visual of the section**
 Players can upload their photos, which are transformed into avatars styled to fit the game's aesthetic, integrating seamlessly with magical and futuristic elements or showed as it is for earlier part.
 
+## Section 3. Main Interface/Game Hub
+
+### Sub-section 3.1. Description:
+
+**Content of the section:**
+The main interface serves as the central hub for players, providing access to all major game features and activities. This hub is designed to be both functional and visually appealing, reflecting the game’s blend of wizardry and futuristic elements within a magical jungle setting. It acts as the player's primary navigation point, offering seamless transitions between different parts of the game.
+
+**Visual of the section**
+The main interface is presented in a VR-style, first-person perspective, creating an immersive experience where players feel as if they are directly interacting with the environment. The design merges a mystical forest aesthetic with modern, futuristic technology.
+
+- **Central Clearing:** At the center of the interface is an illustration of a dense, enchanted forest. The ground is covered with soft, luminescent moss, and the air is filled with the gentle glow of fireflies and other magical creatures. 
+
+- **Floating Icons:** Surrounding the central clearing are various floating icons, each representing a different game feature. These icons are animated and glow with a soft, pulsing light, making them easily identifiable and interactive. Players can interact with these icons using cursor looking like a magical wand.
+
+### Sub-section 3.2. Access Features
+
+**Content of the section**
+Players can access various features from the main interface, such as studying, questing, exploring, bonding, buying items, crafting, and more. Each feature is designed to be intuitive and user-friendly, ensuring players can easily navigate the game world.
+
+**Visual of the section**
+
+- **EXPLORE:** 
+  - **Icon:** A mystical compass surrounded by swirling magical energy.
+  - **Visual:** 
+
+- **QUEST:** 
+  - **Icon:** An ancient scroll with animated, holographic text.
+  - **Visual:** 
+
+- **STUDY:** 
+  - **Icon:** A glowing book with fluttering pages.
+  - **Visual:** 
+
+- **BOND:** 
+  - **Icon:** Two interlocking rings emitting a radiant light.
+  - **Visual:** 
+
+- **CRAFT:** 
+  - **Icon:** A hammer and anvil with sparks flying.
+  - **Visual:** 
+- **GEAR:** 
+  - **Icon:** A suit of armor with a glowing shield.
+  - **Visual:** 
+- **SUMMON:** 
+  - **Icon:** A magical circle with pulsing runes.
+  - **Visual:** 
+
+- **SHARE:** 
+  - **Icon:** A glowing hand holding a sparkling crystal.
+  - **Visual:** 
+
+- **FORGE:** 
+  - **Icon:** A blazing forge with molten metal and sparks.
+  - **Visual:** 
 
 
