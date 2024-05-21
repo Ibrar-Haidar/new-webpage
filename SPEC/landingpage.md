@@ -24,12 +24,54 @@ New players are guided through an tutorial designed to familiarize them with gam
 - Use the realm ring to navigate different dimensions.
 - Access the time lens/orb for viewing past events.
 
-** Visual of the section**:
+**Visual of the section**:
 A pre-recorded video demo guides new players through the basics, with animated icons and tooltips overlaid on a sleek, holographic interface. In the we would have button asking the players to start the game which will take them toward the character creation part.
 
-## Sub-section 1.4. Character Creation:
+### Sub-section 1.4. Character Creation:
 **Content of the section**:
 Begin your adventure by creating your unique wizard character. Choose your avatar and customize your appearance, magical abilities, and colors to reflect your personality and style.
 
 **Visual of the section**:
 The character creation screen places the player’s avatar in a high-tech workshop. Floating, holographic menus surround the avatar, allowing customization of features like hairstyles, facial expressions, and clothing in real time.
+
+
+## Section 2. AVATAR: Character Creation/Modification
+
+### Sub-section 2.1. Customization:
+
+**Personalize your wizard avatar with a variety of options:**
+
+* Unique hairstyles 
+* Facial features 
+* Clothing.
+* Magical accessories to enhance your appearance.
+
+**Visual of the section**:
+An avatar stands in a chamber filled with futuristic tech and magical artifacts or something holographic style. Customization options appears on each side of character as floating, holographic panels, with each change reflected instantly on the avatar. After finalizing your avatar clicking on complete button will show pop-up screen asking for name.
+
+
+### Sub-section 2.2. Name Selection:
+
+**Content of the section**:
+Choose a wizard name that reflects your personality or play style, adding depth to your character.
+
+**Visual of the section**
+An ornate, glowing scroll in front of the avatar. Players type their chosen name, which appears in animated, magical script.
+
+### Sub-section 2.3. Representation:
+**Content of the section**:
+Your avatar will be your digital representation throughout the game, accompanying you from studying to bonding with other wizards.
+
+**Visual of the section**
+The avatar is shown in various game scenarios: casting spells, interacting with NPCs, and bonding with other wizards, depicted with a mix of traditional magic and high-tech elements. Also appearing at the side of the screen with round frame showing as profile.
+
+
+### Sub-section 2.4. Personalization:
+**Content of the section**
+Optionally, you can use your own picture as an avatar for further immersion into the magical realm.
+
+**Visual of the section**
+Players can upload their photos, which are transformed into avatars styled to fit the game's aesthetic, integrating seamlessly with magical and futuristic elements or showed as it is for earlier part.
+
+
+
