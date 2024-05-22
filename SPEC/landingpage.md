@@ -73,6 +73,8 @@ Optionally, you can use your own picture as an avatar for further immersion into
 **Visual of the section**
 Players can upload their photos, which are transformed into avatars styled to fit the game's aesthetic, integrating seamlessly with magical and futuristic elements or showed as it is for earlier part.
 
+
+
 ## Section 3. Main Interface/Game Hub
 
 ### Sub-section 3.1. Description:
@@ -92,40 +94,57 @@ The main interface is presented in a VR-style, first-person perspective, creatin
 **Content of the section**
 Players can access various features from the main interface, such as studying, questing, exploring, bonding, buying items, crafting, and more. Each feature is designed to be intuitive and user-friendly, ensuring players can easily navigate the game world.
 
+**Content of the header**
+- Header could include:
+    - Avatar Profile and name
+    - Skills learned
+    - rank
+    - achievement badges
+
+
 **Visual of the section**
 
 - **EXPLORE:** 
   - **Icon:** A mystical compass surrounded by swirling magical energy.
-  - **Visual:** 
+  - **Content:** Explore diverse realms and dimensions, visiting enchanted forests, mystical mountains, ancient ruins, and underwater kingdoms. Encounter mythical creatures and legendary beings.
+  - **Visual:**  Exploration is depicted with a visually rich map that players can zoom in and out of. Different realms are marked with mystical symbols and futuristic icons. Previews show enchanted forests, mystical mountains, ancient ruins, and underwater kingdoms, all with vibrant colors and dynamic lighting.
 
 - **QUEST:** 
   - **Icon:** An ancient scroll with animated, holographic text.
-  - **Visual:** 
+  - **Content:** Embark on quests to explore new realms. Accept quests from NPCs, solve puzzles, navigate obstacles, and uncover ancient artifacts.
+  - **Visual:** The quest board is an ornate, interactive display with quest cards that animate when hovered over. Each card provides a summary and visual preview of the quest. The economy and trade interface features a futuristic market with holographic stalls and animated traders.
 
 - **STUDY:** 
   - **Icon:** A glowing book with fluttering pages.
-  - **Visual:** 
+  - **Content:** Acquire new magical spells and skills through libraries, schools, or special places. Learn spells like levitation, elemental manipulation, or illusion casting.
+  - **Visual:**  The study section resembles a grand library with towering bookshelves filled with glowing tomes and scrolls. Holographic study stations allow players to interact with digital books and spell diagrams.
 
 - **BOND:** 
   - **Icon:** Two interlocking rings emitting a radiant light.
-  - **Visual:** 
+  - **Content:** Connect with other wizards through virtual portals, magical meeting spaces, and special events. Form bonds through cooperative quests and community events
+  - **Visual:** The social hub is a magical meeting space with floating platforms and holographic communication tools. Players can see avatars of other wizards engaging in activities and events.They can also communicate via chat box.
 
 - **CRAFT:** 
   - **Icon:** A hammer and anvil with sparks flying.
-  - **Visual:** 
+  - **Content:** Collect materials to craft magical items, potions, and artifacts. Use skills learned from studying and materials gathered from exploration.
+  - **Visual:** The crafting workshop is a blend of a traditional alchemist’s lab and a futuristic tech lab, filled with bubbling potions, glowing runes, and advanced machinery. Players interact with a central crafting table, where they combine materials and cast spells to create items.
 - **GEAR:** 
   - **Icon:** A suit of armor with a glowing shield.
-  - **Visual:** 
+  - **Content:** Acquire essential items from the wizard gear stall, including the omni bag, realm ring, and other magical gear. Equip physical and mental/mind gear to enhance abilities
+  - **Visual:** The gear stall is a vibrant market scene in the middle of the forest. Each piece of gear is shown as a holographic projection, rotating to display its features and stats.
 - **SUMMON:** 
   - **Icon:** A magical circle with pulsing runes.
-  - **Visual:** 
+  - **Content:** Summon new creatures, alter landscapes, or establish new realms. Create new quests, shape narratives, and contribute to the game's expansion.
+  - **Visual:** The summoning area is a mystical circle with ancient runes and futuristic holographic interfaces. Players can combine spells and resources to summon new creatures or alter the environment.
 
 - **SHARE:** 
   - **Icon:** A glowing hand holding a sparkling crystal.
-  - **Visual:** 
+  - **Content:** Participate in in-game events mirroring real-life occasions. Share items, crafted spells, and knowledge through the "library of things," earning experience and social status.
+  - **Visual:** The community hub features a large, central Library where players can exchange items and share knowledge. Magical events are highlighted with banners, fireworks, and festive decorations.
 
 - **FORGE:** 
   - **Icon:** A blazing forge with molten metal and sparks.
-  - **Visual:** 
+  - **Content:** Forge magical items, potions, or creatures using collected materials. Requires special equipment and collaboration among wizards.
+  - **Visual:** The forging area is a grand forge with massive anvils, magical furnaces, and advanced machinery. Players collaborate, each contributing materials and skills to create powerful items.
 
-
+> Dream could be included inside of the quest as an option when player get stuck or anyother player request for help with their quest.
